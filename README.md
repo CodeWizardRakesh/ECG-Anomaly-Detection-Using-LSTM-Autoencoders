@@ -18,3 +18,4 @@ python app.py
 ## Screeshots
 ![img1](https://github.com/CodeWizardRakesh/ECG-Anomaly-Detection-Using-LSTM-Autoencoders/blob/main/images/Screenshot%202025-01-19%20112932.png)
 ![img2](https://github.com/CodeWizardRakesh/ECG-Anomaly-Detection-Using-LSTM-Autoencoders/blob/main/images/Screenshot%202025-01-19%20113058.png)
+![img3](https://github.com/CodeWizardRakesh/ECG-Anomaly-Detection-Using-LSTM-Autoencoders/blob/main/images/Screenshot%202025-01-19%20112932.png)
