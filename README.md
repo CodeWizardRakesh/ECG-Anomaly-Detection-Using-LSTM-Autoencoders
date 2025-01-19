@@ -16,4 +16,4 @@ This project implements an anomaly detection system for ECG signals using an LST
 python app.py
 ```
 ## Screeshots
-![img1]()
+![img1](https://github.com/CodeWizardRakesh/ECG-Anomaly-Detection-Using-LSTM-Autoencoders/blob/main/images/Screenshot%202025-01-19%20112932.png)
