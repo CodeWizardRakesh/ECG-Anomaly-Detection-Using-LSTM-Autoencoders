@@ -19,4 +19,4 @@ python app.py
 ![img1](https://github.com/CodeWizardRakesh/ECG-Anomaly-Detection-Using-LSTM-Autoencoders/blob/main/images/Screenshot%202025-01-19%20112932.png)
 ![img2](https://github.com/CodeWizardRakesh/ECG-Anomaly-Detection-Using-LSTM-Autoencoders/blob/main/images/Screenshot%202025-01-19%20113058.png)
 ![img3](https://github.com/CodeWizardRakesh/ECG-Anomaly-Detection-Using-LSTM-Autoencoders/blob/main/images/Screenshot%202025-01-19%20113138.png)
-If you see this, you have successfully explored this project. We hope it has provided valuable insights into ECG anomaly detection. If you have any questions or run into issues, please open an issue on this repository.
+***If you see this, you have successfully explored this project. We hope it has provided valuable insights into ECG anomaly detection. If you have any questions or run into issues, please open an issue on this repository.***
