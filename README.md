@@ -15,3 +15,4 @@ This project implements an anomaly detection system for ECG signals using an LST
 ``` bash
 python app.py
 ```
+## Screeshots
