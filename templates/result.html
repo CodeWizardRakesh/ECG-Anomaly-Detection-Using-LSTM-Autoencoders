@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ECG Data Result</title>
+    <style>
+        body {
+            background-color: #121212;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        
+        h1 {
+            color: #ffffff;
+            text-align: center;
+        }
+        
+        h2 {
+            color: #ffffff;
+            margin-top: 20px;
+        }
+        
+        img {
+            display: block;
+            margin: 0 auto;
+            max-width: 90%;
+            border: 2px solid #444;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+        }
+        
+        
+    </style>
+</head>
+<body>
+    <h1>ECG Data for Patient {{ patient_number }}</h1>
+
+    <h2>Input ECG Plot:</h2>
+    <img src="{{ url_for('input_plot', filename='input_data_plot.png') }}" alt="Input ECG Plot">
+
+    <h2>Output ECG Plot:</h2>
+    <img src="{{ url_for('output_plot', filename='output_data_plot.png') }}" alt="Output ECG Plot">
+</body>
+</html>
