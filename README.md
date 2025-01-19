@@ -12,4 +12,6 @@ This project implements an anomaly detection system for ECG signals using an LST
 ## To start the Application
 - Navigate to the correct directory
 - And run this command
-- 
+``` bash
+python app.py
+```
